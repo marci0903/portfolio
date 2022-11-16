@@ -17,13 +17,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/fullstack
 spring.datasource.username=root
 spring.datasource.password=
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
-
-
-
 ```
-
-A DBNAME helyére kell kerüljön az adatbázis neve, a USERNAME helyére a belépési név a PASSWORD helyére a jelszó.
-
 
 Ha a MySql sikeresen beállításra került, az API-nak innentől kezdve működnie kellene és nincs további tehendő!
 
