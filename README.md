@@ -32,6 +32,6 @@ Jelenleg az api 2 különböző dolgot kezel (GET, POST).
 Ezekhez az elérési utak az alábbiak:
 
 ```
-localhost:8080/stock_entity/getAll          ( GET )    - Lekérdezi az adatbázisban található összes adatot!
-localhost:8080/stock_entity/add          ( POST )   - Új adatott ad az adatbázishoz.
+localhost:8080/record_entity/getAll          ( GET )    - Lekérdezi az adatbázisban található összes adatot!
+localhost:8080/record_entity/add          ( POST )   - Új adatott ad az adatbázishoz.
 ```
